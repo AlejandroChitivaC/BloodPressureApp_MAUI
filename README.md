@@ -9,9 +9,6 @@ BloodPressureApp is a mobile application developed with .NET Maui that allows yo
 - **Clear Visualization:** Displays all recorded readings in a neatly organized table.
 - **Input Validation:** Limits blood pressure values to ensure accurate data.
 
-## Screenshots
-_(Include screenshots here if available)_
-
 ## Installation
 To run BloodPressureApp on your device: **Coming soon...**
 
